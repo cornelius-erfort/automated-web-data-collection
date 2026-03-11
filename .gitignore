@@ -1,8 +1,15 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
 wikipedia/*
 abgeordneten_html/*
 berlin/*
-abgeordneten_qas/*
+
+# System/personal junk
+.DS_Store
+._*
+.Rhistory
+.RHistory
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+/.RData
+Rplots.pdf
+*.Rproj
